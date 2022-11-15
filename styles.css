@@ -1,0 +1,81 @@
+/*TODO: Add a background color or image to your website*/
+body {
+background-color: #E6E6FA; 
+text-align: center;
+}
+
+
+h1 {
+  color: RebeccaPurple;
+ font-family: 'Tomorrow', sans-serif;
+h3 {
+  color: RebeccaPurple;
+}
+h4{
+  color: RebeccaPurple;
+}
+
+
+ul 
+{
+  
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: white;
+  border: 1px solid black;
+  
+}
+
+.nav
+{
+  display: block;
+  color: black;
+  padding: 8px 16px;
+  text-decoration: none;
+  background-color: white;
+  color: white;
+   border-bottom: 1px solid black;
+  
+}
+  
+
+
+.nav:hover
+{
+  background-color: lightblue;
+  color: white;
+}
+
+.bio
+{
+  margin: 10px
+  padding: 20px
+  border: 
+}
+
+.centerMe
+{
+  display: flex;
+  justify-content: center;
+}
+.Bio
+{
+  margin-left: 300px;
+  margin-right: 300px;
+  display: flex;
+  justify-content: center;
+  border: 10px solid white;
+  background-color: white;
+ flex-direction: row;
+  
+}
+
+.thingsIDid
+{
+  display: flex;
+  justify-content:space-around;
+}
+  
+  
