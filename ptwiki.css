@@ -1,0 +1,115 @@
+/*TODO: Add a background color or image to your website*/
+body {
+background-color: #E6E6FA; 
+text-align: left;
+}
+
+
+h1 {
+  color: Black;
+ font-family: 'Tomorrow', Sans-serif;
+  
+  h2 {
+  color: Black;
+ font-family: 'Tomorrow', Sans-serif;
+
+h3 {
+  color: Black;
+ font-family: 'Tomorrow', Sans-serif;
+  font-size:35px;
+
+h4{
+  color: Black;
+ font-family: 'Tomorrow', Sans-serif;
+
+h5{
+  color: Black;
+ font-family: 'Tomorrow', Sans-serif;
+
+h6{
+  color: Black;
+ font-family: 'Tomorrow', Sans-serif;
+
+h7{
+  color: Black;
+ font-family: 'Tomorrow', Sans-serif;
+
+h8{
+  color: Black;
+ font-family: 'Tomorrow', Sans-serif;
+
+h9{
+  color: Black;
+ font-family: 'Tomorrow', Sans-serif;
+
+
+ul 
+{
+  
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: white;
+  border: 1px solid black;
+  
+}
+
+.nav
+{
+  display: block;
+  color: black;
+  padding: 8px 16px;
+  text-decoration: none;
+  background-color: white;
+  color: white;
+  border-bottom: 1px solid black;
+  
+}
+  
+
+
+.nav:hover
+{
+  background-color: lightblue;
+  color: white;
+}
+
+.bio
+{
+  margin: 10px
+  padding: 20px
+  border: 
+}
+
+.centerMe
+{
+  display: flex;
+  justify-content: center;
+}
+  
+.left
+{
+  display: flex;
+  justify-content: left;
+}
+  
+.Bio
+{
+  margin-left: 300px;
+  margin-right: 300px;
+  display: flex;
+  justify-content: center;
+  border: 10px solid white;
+  background-color: white;
+ flex-direction: row;
+  
+}
+
+.thingsIDid
+{
+  display: flex;
+  justify-content:space-around;
+}
+  
+ 
